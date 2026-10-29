@@ -1,2 +1,2 @@
-This is the updated main branch.
+This is the feature branch with updates from main.
 The project is about learning GitHub.
